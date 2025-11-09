@@ -93,7 +93,7 @@ console.log(menu);
     <header className="sticky top-0 z-10 bg-emerald-400 h-24 px-4 flex items-center justify-between  lg:justify-evenly ">
 <div className="flex  items-center  ">
     <img className="w-6 h-17 " src="logo.webp" alt="Logo" />
-    <div className="m-2 font-bold text-2xl">Cary Physicians</div>
+    <div className="m-2 font-bold text-2xl">CareBridge </div>
 
 </div>
 <div className='hidden lg:flex justify-center items-center p-2 gap-8 font-semibold text-gray-700 text-lg transition-all'>

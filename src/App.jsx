@@ -14,6 +14,7 @@ import { Steps } from './components/Steps';
 import { Tools } from './components/Tools';
 import { FAQ } from './components/FAQ';
 import { Footer } from './components/Footer';
+import { Contact } from './components/Contact';
 
 const App = () => {
   // const [data,setData]=useState([])
@@ -210,6 +211,8 @@ const App = () => {
    <Tools></Tools>
 
    <FAQ></FAQ>
+
+<Contact></Contact>
 
    <Footer></Footer>
     </>

@@ -45,7 +45,7 @@ Contact Us
 <div className='font-semibold text-emerald-400'>
 
 
-    Cary Physicians Primary Care, PLLC
+   CareBridge Primary Care, PLLC
 
 </div>
 <div className='text-white'>
@@ -72,7 +72,7 @@ Fax:<span className='text-emerald-400'> 1 919 912 5442</span>
 
 
 
-Email: <a href='mailto:office@caryphysicians.com' className='text-emerald-400'>office@caryphysicians.com</a>
+Email: <a href='mailto:aad769650@gmail.com' className='text-emerald-400'>aad769650@gmail.com</a>
 </div>
 
 </div>
@@ -86,7 +86,7 @@ Email: <a href='mailto:office@caryphysicians.com' className='text-emerald-400'>o
 <div className='flex justify-between items-center p-4 bg-gray-900  text-gray-400'>
 <div className='flex gap-2 items-center'>
         <div className='w-8 h-8 flex-shrink-0 flex items-center justify-center text-gray-950 font-bold bg-emerald-400 rounded-full'>CP</div>
-    <div>Cary Physician</div>
+    <div>CareBridge</div>
 </div>
 
 <div>Made with love on Earth By <a href="https://github.com/aad769650-cyber" className='text-emerald-400 hover:underline'>Mahar</a></div>

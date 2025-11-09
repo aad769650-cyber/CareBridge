@@ -63,7 +63,7 @@ const timeTable=[
       <div className=' bg-emerald-400 p-4 flex flex-col gap-4 rounded-b-2xl'>
 
         <div>
-            <div className='font-bold text-2xl text-white'>Cary Physicians Primary Care, PLLC</div>
+            <div className='font-bold text-2xl text-white'>CareBridge Primary Care, PLLC</div>
             <p className='text-gray-100 '>Compassionate Care, Exceptional Results</p>
         </div>
 
@@ -75,7 +75,7 @@ const timeTable=[
         <div>
          <div className="font-semibold  text-white">   Phone:</div>
             <p className='text-gray-50 '>
-(919) 230-7439</p>
+03281700284</p>
         </div>
         
         <div>
@@ -86,7 +86,7 @@ const timeTable=[
         
         <div className='flex flex-col'>
            <div className="font-semibold  text-white">Email:</div>
-<a href="mailto:office@caryphysicians.com " className='text-gray-50 hover:underline'>office@caryphysicians.com</a>
+<a href="mailto:aad769650@gmail.com " className='text-gray-50 hover:underline'>aad769650.com</a>
         </div>
         
         <div className="font-semibold  text-white">Office Hours</div>

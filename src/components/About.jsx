@@ -21,11 +21,11 @@ export const About = () => {
 
 <div className='flex flex-col gap-6   '>
 
-    <h2 className=' font-bold text-black text-3xl'>Welcome to <span className='text-emerald-300'> Cary Physicians</span></h2>
+    <h2 className=' font-bold text-black text-3xl'>Welcome to <span className='text-emerald-300'> CareBridge</span></h2>
 
 
 <div className='flex flex-col gap-4'>
-    <p>At <span className='font-bold'>Cary Physicians Primary Care PLLC</span>, we provide <span className='font-bold'>comprehensive primary care</span> for individuals and families in Cary, NC.</p>
+    <p>At <span className='font-bold'>CareBridge Primary Care PLLC</span>, we provide <span className='font-bold'>comprehensive primary care</span> for individuals and families in Cary, NC.</p>
    
    
     <p>Our experienced <span className='font-bold'>Doctors, nurses, and healthcare</span> professionals are committed to delivering personalized, high-quality <span className='font-bold'>medical care</span> to meet your health needs</p>

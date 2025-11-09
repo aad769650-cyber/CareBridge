@@ -14,8 +14,7 @@ export const Slider = () => {
         "/practice4.webp",
         "/practice5.webp",
         "/practice6.webp",
-    ];
-
+    ]
     const handleNext=()=>{
        
         setStartIndex(
@@ -71,7 +70,7 @@ const handlePrevious=()=>{
     const visible=images.slice(startIndex,startIndex+count)
   return (
 <>
-    <div className='font-bold text-2xl'>Step Inside <span className='font-extrabold  text-emerald-300 text-3xl'>Cary Physician</span></div>
+    <div className='font-bold text-2xl'>Step Inside <span className='font-extrabold  text-emerald-300 text-3xl'>CareBridge</span></div>
 
 
     <div className='sm:flex gap-2 relative  w-full hidden  '>

@@ -29,13 +29,13 @@ title:"Upload Insurance Card"
 
 
 
-      <h1 className='  text-right   text-4xl  lg:text-5xl text-yellow-300 font-bold' style={{textShadow:"white 1px 1px"}}>Cary Physicians  Primary Care,  PLLC</h1>
+      <h1 className='  text-right   text-4xl  lg:text-5xl text-yellow-300 font-bold' style={{textShadow:"white 1px 1px"}}>CareBridge  Primary Care,  PLLC</h1>
 
 
       <p className='text-right w-full h-auto font-semibold text-white '>Dedicated to providing comprehensive primary care services for individuals and families in our community.</p>
 
 
-      <a href='tel:919 230 7439' className="flex justify-end  text-2xl underline text-white ">Call: <span className='hover:text-gray-100'>919 230 7439</span></a>
+      <a href='tel:919 230 7439' className="flex justify-end  text-2xl underline text-white ">Call: <span className='hover:text-gray-100'>03281700284</span></a>
 
       <div className='flex flex-col md:flex-row  flex-wrap items-end justify-end gap-4'>
 

@@ -24,10 +24,10 @@ export const Provider = () => {
 
 <div >
 <div className='mx-w-1/2 sm:w-1/2 md:w-92  shadow hover:shadow-2xl rounded-2xl  mb-4'>
-    <img src="DocPicture.webp" alt="Service Provider Image" className='w-full md:w-92 rounded-t-2xl '/>
+    <img src="heroImg.jpg" alt="Service Provider Image" className='w-full md:w-92 rounded-t-2xl '/>
 
     <div className='border-t-4 border-emerald-400 p-4'>
-<div className='font-bold'>  Dr. Muhammad A Ghani, MD</div>
+<div className='font-bold'>  Dr.Maryam, MD</div>
 
   <p className='text-emerald-500 my-2'>Board Certified Internal Medicine</p>
 
